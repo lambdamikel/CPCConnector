@@ -11,11 +11,15 @@ Key features are:
 
 ## Application Examples 
 
-![CPC Connector 1](images/connector-1.JPG)  
+![CPC Connector 1](images/connector-1.jpg)  
+![CPC Connector 2](images/connector-2.jpg)  
+![CPC Connector 3](images/connector-3.jpg)  
+![CPC Connector 4](images/connector-4.jpg)  
+
 
 ## Gerbers 
 
-The Gerbers are [here](gerbers/cpc-connector.zip.zip). 
+The Gerbers are [here](gerbers/cpc-connector.zip). 
 
 ## OshPark Link 
 
